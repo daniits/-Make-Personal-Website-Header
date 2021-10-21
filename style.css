@@ -16,7 +16,7 @@ nav{
     background-image: url(images/circle.png);
     background-size: cover;
     background-position: right;
-    padding: 10% 5% 5% 15%;
+    padding: 10% 5% 15% 15%;
     position: absolute;
     left: -10%;
     top: -12%;
@@ -51,7 +51,7 @@ nav ul li a{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 .col-1{
     max-width: 800px;
@@ -75,7 +75,7 @@ nav ul li a{
     transition: transform 0.5s;
 }
 .col-2{
-    text-align: center;
+    text-align: right;
     position: relative;
 }
 .back-img{
